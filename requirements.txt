@@ -1,0 +1,8 @@
+flask
+flask_sqlalchemy
+google-generativeai
+sentence-transformers
+numpy
+scikit-learn
+chromadb
+python-dotenv
